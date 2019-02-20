@@ -19,8 +19,7 @@ public class Application {
 			
 		});
 	}
-	
-	
+	 
 	public static void runApp() {
 		
 		Model model = new Model();
