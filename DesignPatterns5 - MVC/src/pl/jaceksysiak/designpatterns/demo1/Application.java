@@ -10,6 +10,7 @@ public class Application {
 
 	public static void main(String[] args) {
 		
+		33
 		SwingUtilities.invokeLater(new Runnable() {
 
 			@Override
@@ -21,6 +22,7 @@ public class Application {
 	}
 	
 	public static void runApp() {
+		
 		Model model = new Model();
 		View view = new View(model);
 
